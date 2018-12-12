@@ -44,7 +44,7 @@ The way Keras update learning rate is slightly different with the Equation 8.14 
 ***
 ### 8.3.2 Momentum
 
-AFter compute gradient estimate, velocity update is calculated. We can ignore Nesterov Momentum for now since it is taught in next section. 
+After compute gradient estimate, velocity update is calculated. We can ignore Nesterov Momentum for now since it is taught in next section. Velocity v is calculated and then added to the paramters (weights) p:
 
 ```python
         # momentum
@@ -73,7 +73,7 @@ AFter compute gradient estimate, velocity update is calculated. We can ignore Ne
 ***
 ### 8.3.3 Nesterov Momentum
 
-Gradient is computed after applying current velocity in Nesterov momentum:
+Gradient is computed after applying current velocity in Nesterov momentum. Please refer to Eq 8.21-22:
 
 ```python
             if self.nesterov:
