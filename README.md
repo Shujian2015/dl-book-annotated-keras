@@ -15,7 +15,7 @@ Trying to connect the deep learning book by Goodfellow and the Keras source in h
    * 8.1 How Learning Diﬀers from Pure Optimization
    * 8.2 Challenges in Neural Network Optimization
    * [8.3 Basic Algorithms](ch08/8.3.MD)
-   * 8.4 Parameter Initialization Strategies
+   * [8.4 Parameter Initialization Strategies](ch08/8.4.MD)
    * [8.5 Algorithms with Adaptive Learning Rates](ch08/8.5.MD)
    * 8.6 Approximate Second-Order Methods
    * [8.7 Optimization Strategies and Meta-Algorithms](ch08/8.7.MD)
