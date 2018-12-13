@@ -11,8 +11,7 @@ Trying to connect the deep learning book by Goodfellow and the Keras source code
 
 ### Table of Contents:
 
-
-
+* 6 Deep Feedforward Networks
 * 7 Regularization for Deep Learning
 * 8 Optimization for Training Deep Models
    * 8.1 How Learning Diﬀers from Pure Optimization
@@ -22,4 +21,5 @@ Trying to connect the deep learning book by Goodfellow and the Keras source code
    * [8.5 Algorithms with Adaptive Learning Rates](ch08/8.5.MD)
    * 8.6 Approximate Second-Order Methods
    * [8.7 Optimization Strategies and Meta-Algorithms](ch08/8.7.MD)
+* 9 Convolutional Networks   
 * 10 Sequence Modeling: Recurrent and Recursive Nets
