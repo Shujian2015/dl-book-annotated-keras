@@ -19,7 +19,7 @@ Trying to connect the deep learning book by Goodfellow and the Keras source code
    * [8.3 Basic Algorithms](ch08/8.3.MD)
    * [8.4 Parameter Initialization Strategies](ch08/8.4.MD)
    * [8.5 Algorithms with Adaptive Learning Rates](ch08/8.5.MD)
-   * 8.6 Approximate Second-Order Methods
+   * 8.6 Approximate Second-Order Methods ([issue](https://github.com/keras-team/keras/issues/460))
    * [8.7 Optimization Strategies and Meta-Algorithms](ch08/8.7.MD)
 * 9 Convolutional Networks   
 * 10 Sequence Modeling: Recurrent and Recursive Nets
