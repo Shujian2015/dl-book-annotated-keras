@@ -1,6 +1,6 @@
 ## Annotated Keras
 
-Trying to connect the deep learning book by Goodfellow and the Keras source code to have better understanding of neural network. Inspired by the awesome [annotated transformer post](http://nlp.seas.harvard.edu/2018/04/03/attention.html) from HarvardNLP.
+Trying to connect the deep learning book by Goodfellow and the Keras source code to have better understanding of neural network. Inspired by the awesome [annotated transformer post](http://nlp.seas.harvard.edu/2018/04/03/attention.html) from HarvardNLP. This is not a foundamental tutorial. Reader may need to have basic understanding of neural network and Keras. This is for those who want to know how Keras implements neural network and have better understanding of neural network.
 
 ### Main Sources
 
